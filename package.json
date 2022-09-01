@@ -1,0 +1,26 @@
+{
+  "name": "nodejscicdjerkindigitalocean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongtranthien/NodejsCICDJerkinDigitalOcean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongtranthien/NodejsCICDJerkinDigitalOcean/issues"
+  },
+  "homepage": "https://github.com/dongtranthien/NodejsCICDJerkinDigitalOcean#readme",
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  },
+  "dependencies": {
+    "express": "3.12.0"
+  }
+}
